@@ -1,0 +1,62 @@
+{
+    "athletes": [
+        {
+            "id": 1,
+            "name": "Иван Петров",
+            "email": "ivan@example.com",
+            "login": "ivan@example.com",
+            "password": "123",
+            "role": "admin",
+            "age": 25,
+            "sport_type": "Футбол",
+            "rank": "КМС",
+            "team": "Спартак",
+            "trainings_count": 46,
+            "bookings": []
+        },
+        {
+            "id": 2,
+            "name": "Мария Сидорова",
+            "email": "maria@example.com",
+            "login": "maria@example.com",
+            "password": "123",
+            "role": "coach",
+            "age": 22,
+            "sport_type": "Теннис",
+            "rank": "1 разряд",
+            "team": "Динамо",
+            "trainings_count": 38,
+            "bookings": []
+        },
+        {
+            "id": 3,
+            "name": "Алексей Смирнов",
+            "email": "alex@example.com",
+            "login": "alex@example.com",
+            "password": "123",
+            "role": "user",
+            "age": 30,
+            "sport_type": "Плавание",
+            "rank": "МС",
+            "team": "Локомотив",
+            "trainings_count": 62,
+            "bookings": []
+        },
+        {
+            "id": 4,
+            "name": "Рыбалко Лев",
+            "email": "leffrybalko@mail.ru",
+            "login": "leffrybalko@mail.ru",
+            "password": "123",
+            "age": 20,
+            "sport_type": "Бокс",
+            "rank": "МС",
+            "team": "ТТТ",
+            "trainings_count": 1,
+            "role": "user",
+            "bookings": []
+        }
+    ],
+    "nextId": 5,
+    "users": []
+}

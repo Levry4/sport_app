@@ -1,0 +1,238 @@
+Array
+(
+    [name] => Рыбалко Лев
+    [email] => n@example.com
+    [age] => 20
+    [sport_type] => Бокс
+    [rank] => 1
+    [team] => ТТТ
+)
+
+Array
+(
+    [name] => рару
+    [email] => an@example.com
+    [age] => 20
+    [sport_type] => ппп
+    [rank] => 1 р
+    [team] => ттт
+)
+
+Array
+(
+    [name] => ЛЛЛ л
+    [email] => n@example.com	
+    [age] => 12
+    [sport_type] => Бокс
+    [rank] => 1 р
+    [team] => ттт
+)
+
+Array
+(
+    [name] => рыбалко Лев
+    [email] => hfn@example.com	
+    [age] => 22
+    [sport_type] => Бокс
+    [rank] => 2 разря
+    [team] => ттт
+)
+
+=== НОВЫЙ ЗАПРОС ===
+Данные: Array
+(
+    [name] => пуцп пцп
+    [email] => an@example.com
+    [age] => 22
+    [sport_type] => ацац
+    [rank] => 1 ауа
+    [team] => ттт
+)
+
+СПОРТСМЕН ДОБАВЛЕН! ID: 4
+Всего спортсменов: 4
+Текущий массив: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Иван Петров
+            [email] => ivan@example.com
+            [age] => 25
+            [sport_type] => Футбол
+            [rank] => КМС
+            [team] => Спартак
+            [trainings_count] => 45
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Мария Сидорова
+            [email] => maria@example.com
+            [age] => 22
+            [sport_type] => Теннис
+            [rank] => 1 разряд
+            [team] => Динамо
+            [trainings_count] => 38
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Алексей Смирнов
+            [email] => alex@example.com
+            [age] => 30
+            [sport_type] => Плавание
+            [rank] => МС
+            [team] => Локомотив
+            [trainings_count] => 62
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => пуцп пцп
+            [email] => an@example.com
+            [age] => 22
+            [sport_type] => ацац
+            [rank] => 1 ауа
+            [team] => ттт
+            [trainings_count] => 0
+        )
+
+)
+
+
+=== НОВЫЙ ЗАПРОС ===
+Данные: Array
+(
+    [name] => Рыбалко Лев
+    [email] => an@example.com
+    [age] => 20
+    [sport_type] => Бокс
+    [rank] => КМС
+    [team] => ТТТ
+)
+
+СПОРТСМЕН ДОБАВЛЕН! ID: 4
+Всего спортсменов: 4
+Текущий массив: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Иван Петров
+            [email] => ivan@example.com
+            [age] => 25
+            [sport_type] => Футбол
+            [rank] => КМС
+            [team] => Спартак
+            [trainings_count] => 45
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Мария Сидорова
+            [email] => maria@example.com
+            [age] => 22
+            [sport_type] => Теннис
+            [rank] => 1 разряд
+            [team] => Динамо
+            [trainings_count] => 38
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Алексей Смирнов
+            [email] => alex@example.com
+            [age] => 30
+            [sport_type] => Плавание
+            [rank] => МС
+            [team] => Локомотив
+            [trainings_count] => 62
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => Рыбалко Лев
+            [email] => an@example.com
+            [age] => 20
+            [sport_type] => Бокс
+            [rank] => КМС
+            [team] => ТТТ
+            [trainings_count] => 0
+        )
+
+)
+
+
+=== НОВЫЙ ЗАПРОС ===
+Данные: Array
+(
+    [name] => Рыбалко Лев
+    [email] => leff@example.com
+    [age] => 22
+    [sport_type] => Бокс
+    [rank] => МС
+    [team] => ттт
+)
+
+СПОРТСМЕН ДОБАВЛЕН! ID: 4
+Всего спортсменов: 4
+Текущий массив: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Иван Петров
+            [email] => ivan@example.com
+            [age] => 25
+            [sport_type] => Футбол
+            [rank] => КМС
+            [team] => Спартак
+            [trainings_count] => 45
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Мария Сидорова
+            [email] => maria@example.com
+            [age] => 22
+            [sport_type] => Теннис
+            [rank] => 1 разряд
+            [team] => Динамо
+            [trainings_count] => 38
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Алексей Смирнов
+            [email] => alex@example.com
+            [age] => 30
+            [sport_type] => Плавание
+            [rank] => МС
+            [team] => Локомотив
+            [trainings_count] => 62
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => Рыбалко Лев
+            [email] => leff@example.com
+            [age] => 22
+            [sport_type] => Бокс
+            [rank] => МС
+            [team] => ттт
+            [trainings_count] => 0
+        )
+
+)
+
+
